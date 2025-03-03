@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    color: white;
 }
 .bac{
     background-color: #111148d3;
@@ -10,8 +11,19 @@
 }
 p{
     text-align: center;
+
 }
-.bac2{
+.parent{
     display: flex;
     justify-content: center;
+    align-items: center
+
+
+}
+.lone{
+    background-image:linear-gradient( grey,black) ;
+    width: fit-content;
+    height: 30vh;
+  
+ 
 }
