@@ -4,7 +4,14 @@
 }
 .bac{
     background-color: #111148d3;
-    width: 20vh;
-    height: 20vh;
-
+    width: fit-content;
+    height: 30vh;
+   
+}
+p{
+    text-align: center;
+}
+.bac2{
+    display: flex;
+    justify-content: center;
 }
